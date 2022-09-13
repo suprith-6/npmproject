@@ -1,0 +1,19 @@
+{
+  "name": "npmproject",
+  "version": "1.0.0",
+  "description": "this is a README.file",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suprith-6/npmproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suprith-6/npmproject/issues"
+  },
+  "homepage": "https://github.com/suprith-6/npmproject#readme"
+}
